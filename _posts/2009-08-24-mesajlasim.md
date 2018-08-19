@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mesajlasim"
-description: Geçmişteki yaz tatillerine göre baya bi eğlenmiş olması gerekirdi, Conrad von Totenheim
+description: Geçmişteki yaz tatillerine göre baya bi eğlenmiş olması gerekirdi, Conrad von Totenheim.
 image: 'https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/12523139_10208411980277404_8620526000711370775_n.jpg?_nc_cat=0&oh=bb7b170b7470444002953657190fe7d3&oe=5BF16276'
 category: 'shorts'
 twitter_text: Mesajlasim - Geçmişteki yaz tatillerine göre baya bi eğlenmiş olması gerekirdi

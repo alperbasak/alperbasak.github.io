@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Sihirbaz'in Guncesi"
-description: Seyir Defteri - MS. Haziran 1987, Kapadokya
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807365/now-you-see-me_wtv89q.jpg'
+description: Seyir Defteri - MS. Haziran 1982, Kapadokya
+image: 'http://1.bp.blogspot.com/-tZqmlaK8ulA/T6aTyXmNhXI/AAAAAAAAB4E/LOUfNmyPqyM/s1600/medium_turkishclimax_io9.flv.jpg'
 category: 'shorts'
-twitter_text: Sihirbaz'in Guncesi - Seyir Defteri - MS. 1987, Kapadokya
-introduction: Seyir Defteri - MS. Haziran 1987, Kapadokya
+twitter_text: Sihirbaz'in Guncesi - Seyir Defteri - MS. 1982, Kapadokya
+introduction: Seyir Defteri - MS. Haziran 1982, Kapadokya
 tags:
 - graduate
 - career
