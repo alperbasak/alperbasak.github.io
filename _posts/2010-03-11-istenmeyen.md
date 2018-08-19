@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Istenmeyen"
+title: "İstenmeyen"
 description: Kimi zaman oluyo ki, bazı şeyler insanların suratına söylenemiyor
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807365/now-you-see-me_wtv89q.jpg'
 category: 'past'
-twitter_text: Istenmeyen - Kimi zaman oluyo ki, bazı şeyler insanların suratına söylenemiyor
+twitter_text: İstenmeyen - Kimi zaman oluyo ki, bazı şeyler insanların suratına söylenemiyor
 introduction: Kimi zaman oluyo ki, bazı şeyler insanların suratına söylenemiyor
 tags:
 - graduate
