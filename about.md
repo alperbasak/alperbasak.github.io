@@ -9,9 +9,6 @@ permalink: /about/
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Bir garip beyaz yakayım bu hayatta, gahi gezer gahi yazarım. Geceden oturur ekran başına bir şarapla, sabaha atfederim non-fat caramel waffle cone frappacinoya. Bir ala gözlü benli dilber uğruna nice gönüller kırar, kimini onarım. Az kulak versen benden yana, zaten gelirim ben senden yana. Hakikatli bir yar isen gayrileri biz neyleyelim, gel lunch breaklerde gönülleri bir edelim. Havaya bakarsam hava alır, toprağa basarsam detoks olurum. Smart casuallara meeting atar, candostlara notification. Bu bendeki aşk olmasa eğlenecek yer bulaman, gönlümdeki köşk olmasa poolside party veremen. Gizli sırlarıma aşikar etmeyesin. Rüzgar dalı kırmıştır bir kere, ucundan daha çıkmaz bir körpe alık anca olursa sana sivri bir kıymık.
+
+Ben giderim adım kalır. Açar donar türlü çiçek, kimler gülmüş kimler solmuş. Ben yalan ölüm gerçek.  
