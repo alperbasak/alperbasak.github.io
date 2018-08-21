@@ -7,8 +7,8 @@ category: 'reprimand'
 twitter_text: Mahalle Kaygısı - Aramalı mıydı?
 introduction: Aramalı mıydı?
 tags:
-- graduate
-- career
+- dislanma
+- indahood
 ---
 
 Daha önceki deneyimleri bunu yapmamasını söylüyordu. zaten netten bakmıştı. yoktu işte, 5 sokak ötesine kadar rahatça götürebilinen hizmet oraya gelmiyodu. ama yine de müşteri hizmetlerine bi sorsam mı diye düşünüyodu. geçen seferkinin acısı hala içindeydi, o deneyim kendinde asla kapanmayacak bi travmaya yol açmıştı. hiçbi şeyden haberi yoktu o zamanlar..

@@ -7,8 +7,9 @@ category: 'shorts'
 twitter_text: Antisosyal Medya - "Gönder"e basmadan önce bir daha baktı yazdıklarına.
 introduction: Göndere basmadan önce bir daha baktı yazdıklarına, uzuncaydı.
 tags:
-- graduate
-- career
+- sosyalmedya
+- engel
+- elestiri
 ---
 
 Hep uzun yazıyordu, anlattıklarından emin olmak için. Doğru anlamı verebildiğinden... Cevabının abartılı klişelerle süslenmiş olduğundan iyice emin olduktan sonra Gönder'e tıkladı ama parmağını çekmedi. Son bir kez daha okudu. İmlalara, virgüllere, hiçbir şeylere, yalnızlara, "de da"lara baktı. Okuyanın gözünün oralara takılmasını istemiyordu. Kendisi başkalarının yazılarını okurken böyle bir durumla karşılaştığında aklı orada takılı kalıyor, esprinin ironinin komikliğin saçmalığın genelliğini kaçırıyordu.
