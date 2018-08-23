@@ -3,11 +3,13 @@ layout: post
 title: "Doublé Standart"
 description: Hafızası kendini yanıltmıyorsa bundan tam altı yıl önce gece gibi mar saçlı bir dilber ilen meşk halindeydi.
 image: '/assets/img/duble.jpg'
-category: 'reproof'
+category: 'shorts'
 twitter_text: Doublé Standart - Hafızası kendini yanıltmıyorsa bundan tam altı yıl önce gece gibi mar saçlı bir dilber ilen meşk halindeydi.
 introduction: Hafızası kendini yanıltmıyorsa bundan tam altı yıl önce gece gibi mar saçlı bir dilber ilen meşk halindeydi.
 tags:
-- tuketim
+- erasmus-i avam
+- mektupla
+- nereyekadar
 ---
 
 Uzun zamandır tanışıklıkları mevcuttu ancak yakın zamana kadar birbirlerine olan ilgileri vücut bulmamıştı. Bir dolunayda yan yana oturup denizdeki yansımalarını izlerken gençliğin körüklediği ateş ilen dehanları bir olmuştu. Yıllardır bu hatundaki mistik hava onu daha da içine çekmişti. Kendisi gibi cemiyete uzak birini bulunca ona yakınlaşmak istemekteki tevazürü kendi de anlayamadı. Boğulacağını bile bile atladı bu ırmağa.
