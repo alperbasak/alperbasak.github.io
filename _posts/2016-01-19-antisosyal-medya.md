@@ -2,7 +2,7 @@
 layout: post
 title: "Antisosyal Medya"
 description: Göndere basmadan önce bir daha baktı yazdıklarına, uzuncaydı.
-image: 'https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/12523139_10208411980277404_8620526000711370775_n.jpg?_nc_cat=0&oh=bb7b170b7470444002953657190fe7d3&oe=5BF16276'
+image: '/assets/img/send.jpg'
 category: 'shorts'
 twitter_text: Antisosyal Medya - "Gönder"e basmadan önce bir daha baktı yazdıklarına.
 introduction: Göndere basmadan önce bir daha baktı yazdıklarına, uzuncaydı.
