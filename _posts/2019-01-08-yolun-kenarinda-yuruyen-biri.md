@@ -12,7 +12,7 @@ tags:
 - cekyatta
 - otostop
 ---
-Yolun kenarında yürüyen birini gördük uzaktan. Otostop çekip çekmediği belli değildi, umarım çekiyordur diye düşündük, alalım bunu dedik. Ziyaretine geldiğim ve birlikte yola çıktığımız arkadaşlardan biri "Okuldan bir profesör mü acaba" diye sesli düşündü. Başında bir bez sarılıydı ve uzun süredir yürüdüğü belliydi, gezgin gibi bir şeydi herhalde. Yaklaşınca otostop çektiğini gördük, hemen durup aldık, sevinçle geldi o da. Erkek zannetmiştik ama ters köşe olduk; Türk bile değildi. Uzun boylu Rus tipli bir kadındı. Kapadokya olunca şaşırmamak lazımdı demek ki. 
+Yolun kenarında yürüyen birini gördük uzaktan. Otostop çekip çekmediği belli değildi, umarım çekiyordur diye düşündük, alalım bunu dedik. Ziyaretine geldiğim ve birlikte yola çıktığımız arkadaşlardan biri "Okuldan bir profesör mü acaba?" diye sesli düşündü. Başında bir bez sarılıydı ve uzun süredir yürüdüğü belliydi, gezgin gibi bir şeydi herhalde. Yaklaşınca otostop çektiğini gördük, hemen durup aldık, sevinçle geldi o da. Erkek zannetmiştik ama ters köşe olduk; Türk bile değildi. Uzun boylu Rus tipli bir kadındı. Kapadokya olunca şaşırmamak lazımdı demek ki. 
 
   Avusturyalı'ymış. "Oo Österreich" dedim, "Ich spreche ein bißchen Deutsch". Sonra İngilizce devam ettik epey. Orada malzeme bilimi okumuş sonra onu bırakıp sosyal tiyatro falan içerikli bir şey okumuş. Gönüllülük faaliyetlerinde takılıyormuş. Bu arada da "Ben bir yıllığına dünyayı gezeceğim" diye karar verip yola çıkmış. Bir sürü yer gezmiş aylardır, anlattı. İngilizce konuşmayı çok özlemişim. 
 
