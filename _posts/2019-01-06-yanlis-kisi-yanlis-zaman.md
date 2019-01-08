@@ -12,7 +12,7 @@ tags:
 - zaman
 - korelasyonu
 ---
-Biletini okuttu ve metal barları döndürmek için elini uzattı. Geçmek için barı ittirmeye çalıştı ama bar hala kilitliydi. Hafif bir klik sesi duydu, kilidin kalktığının işareti olduğunu düşünerek tekrar itti ve diğer tarafa geçti. Şeridi geçtikten sonra ardından biletin okunma onayını veren statik sesi duydu ama o çoktan yürüyen merdivenleri kullanmaya yönelmişti ki merdivenin aşağı değil yukarı doğru çıktığını gördü. Kafasını diğer taraftaki hatta çevirdi, o da yukarı çıkıyordu. Ortalarından aşağı indi.
+Biletini okuttu ve metal barları döndürmek için elini uzattı. Geçmek için barı ittirmeye çalıştı ama bar hala kilitliydi. Hafif bir klik sesi duydu, kilidin kalktığının işareti olduğunu düşünerek tekrar itip diğer tarafa geçti. Şeridi geçtikten sonra ardından biletin okunma onayını veren statik sesi duydu ama o çoktan yürüyen merdivenleri kullanmaya yönelmişti ki merdivenin aşağı değil yukarı doğru çıktığını gördü. Kafasını diğer taraftaki hatta çevirdi, o da yukarı çıkıyordu. Ortalarından aşağı indi.
 
 Trene binmeden önce duraksadı. Kapı açıldı ve biraz sonra içeri adımını atarken kapı açılma sesini işitti. Aslında açılma ve kapanma sesleri aynı olduğu için hangisinin olduğunu kestiremedi, sadece acele etmesi gerektiğini hissetti. Kapı daha yeni açılmış olmasına rağmen her an arasına sıkışabileceği hissi onu ele geçirdi. Artık hiç bir konuda risk alamıyordu, sürekli korku ve eminsizlik içinde kapalı bir kutuda yaşıyordu.
 
