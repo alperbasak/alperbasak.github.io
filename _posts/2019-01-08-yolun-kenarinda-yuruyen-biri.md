@@ -7,10 +7,9 @@ category: 'past'
 twitter_text: Yolun Kenarında Yürüyen Biri - Otostop çekip çekmediği belli değildi
 introduction: Otostop çekip çekmediği belli değildi.
 tags:
-- koyun
-- koyuna
-- cekyatta
-- otostop
+- yabancilar
+- şube
+- olaylar
 ---
 Yolun kenarında yürüyen birini gördük uzaktan. Otostop çekip çekmediği belli değildi, umarım çekiyordur diye düşündük, alalım bunu dedik. Ziyaretine geldiğim ve birlikte yola çıktığımız arkadaşlardan biri "Okuldan bir profesör mü acaba?" diye sesli düşündü. Başında bir bez sarılıydı ve uzun süredir yürüdüğü belliydi, gezgin gibi bir şeydi herhalde. Yaklaşınca otostop çektiğini gördük, hemen durup aldık, sevinçle geldi o da. Erkek zannetmiştik ama ters köşe olduk; Türk bile değildi. Uzun boylu Rus tipli bir kadındı. Kapadokya olunca şaşırmamak lazımdı demek ki. 
 
